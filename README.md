@@ -1,2 +1,2 @@
 # Rand_IP_Changer
-Generate a valid IPv4/6 address and change the system settings.
+Creates a valid IPv4/6 address and sets as a system IP adress.
